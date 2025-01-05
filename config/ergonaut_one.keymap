@@ -27,10 +27,10 @@
         default_layer {
             display-name = "MAIN";
             bindings = <
-&mt TAB RBKT     &kp Q  &kp W  &kp E             &kp R         &kp T                 &kp Y            &kp U           &kp I              &kp O    &kp P     &kp LBKT
-&mt LCTRL GRAVE  &kp A  &kp S  &mt LEFT_SHIFT D  &mt LCTRL F   &mt LEFT_ALT G        &mt RIGHT_ALT H  &mt RCTRL J     &mt RIGHT_SHIFT K  &kp L    &kp SEMI  &mt RCTRL SQT
-&mt LALT MINUS   &kp Z  &kp X  &kp C             &kp V         &kp B                 &kp N            &kp M           &kp COMMA          &kp DOT  &kp FSLH  &mt RALT BSLH
-                               &lt RSE LEFT_GUI  &lt 1 RETURN  &mt LEFT_SHIFT SPACE  &lt LWR ESC      &mt RSHFT BSPC  &lt RSE DEL
+&mt TAB RBKT     &kp Q  &kp W  &kp E             &kp R         &kp T                 &kp Y              &kp U             &kp I              &kp O    &kp P     &kp LBKT
+&mt LCTRL GRAVE  &kp A  &kp S  &mt LEFT_SHIFT D  &mt LCTRL F   &mt LEFT_ALT G        &mt RIGHT_ALT H    &mt RCTRL J       &mt RIGHT_SHIFT K  &kp L    &kp SEMI  &mt RCTRL SQT
+&mt LALT MINUS   &kp Z  &kp X  &kp C             &kp V         &kp B                 &kp N              &kp M             &kp COMMA          &kp DOT  &kp FSLH  &mt RALT BSLH
+                               &mt LEFT_GUI TAB  &lt 1 RETURN  &mt LEFT_SHIFT SPACE  &lt LWR BACKSPACE  &mt RSHFT DELETE  &lt RSE ESCAPE
             >;
         };
 
